@@ -40,3 +40,6 @@ This concise guide outlines the essential steps to build a Poll App using Django
 
 ![Screenshot from 2024-08-01 11-32-28](https://github.com/user-attachments/assets/4c463c63-af86-4b26-a273-c676dec1c7ff)
 
+
+![Screenshot from 2024-08-01 11-32-45](https://github.com/user-attachments/assets/7fe48503-fe3f-4a83-857a-4ad467226e2c)
+
