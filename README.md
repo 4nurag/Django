@@ -36,3 +36,7 @@
    - Access the app at `http://127.0.0.1:8000/polls/`.
 
 This concise guide outlines the essential steps to build a Poll App using Django, from setup to deployment.
+
+
+![Screenshot from 2024-08-01 11-32-28](https://github.com/user-attachments/assets/4c463c63-af86-4b26-a273-c676dec1c7ff)
+
